@@ -1,0 +1,43 @@
+.detail {
+    padding: 50px;
+}
+
+.description {
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.date {
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.btn_action {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.btn_delete {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    margin-left: 10px;
+}
+
+#iscompl {
+    display: block;
+    margin-right: 5px;
+    width: 20px;
+}
+
+.btn_back {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #1E90FF;
+    width: 70%;
+    color: white;
+}
