@@ -4,7 +4,7 @@ use jwt for user authentication
 Login
 ![image](https://github.com/ThanhVuNe/todo_list/assets/94219178/86736336-4318-45fc-8cc2-3f712d9f7c03)
 
-Register
+Registers
 ![image](https://github.com/ThanhVuNe/todo_list/assets/94219178/08373ba2-b3ea-4b22-a4ba-645204d9b271)
 
 Home
